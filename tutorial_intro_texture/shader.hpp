@@ -146,6 +146,9 @@ public:
         glUniform4f(glGetUniformLocation(ID, name.c_str()), x, y, z, w); 
     }
     // ------------------------------------------------------------------------
+    // Note about the &mat[0][0], this is equivalent to mat.value_ptr()
+    // we are getting out the [0,0] value of matrix and then get its address,
+    // that pointer is what the API want...
     void setMat2(const std::string &name, const glm::mat2 &mat) const
     {
         glUniformMatrix2fv(glGetUniformLocation(ID, name.c_str()), 1, GL_FALSE, &mat[0][0]);

@@ -13,6 +13,12 @@ GLFW/glfw3.h
 -
 stb_image.h
 -
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
 shader.hpp
 C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/shader.hpp
 iostream
