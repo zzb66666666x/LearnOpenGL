@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/main.cpp
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+stb_image.h
+-
+shader.hpp
+C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/shader.hpp
+iostream
+-
+
+C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/shader.hpp
+glad/glad.h
+-
+glm/glm.hpp
+-
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+
