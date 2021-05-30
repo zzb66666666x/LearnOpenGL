@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(cubes VERSION 0.1.0)
+set(CMAKE_CXX_FLAGS "-O3")
+add_executable(cubes main.cpp glad.c stb_image.cpp shader.hpp camera.hpp)
+target_link_libraries(cubes opengl32)
+target_link_libraries(cubes glfw3)
+target_link_libraries(cubes gdi32)
