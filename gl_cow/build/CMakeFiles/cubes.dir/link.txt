@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\cubes.dir/objects.a
+D:\MinGW\TDM64GCC\bin\ar.exe cr CMakeFiles\cubes.dir/objects.a @CMakeFiles\cubes.dir\objects1.rsp
+D:\MinGW\TDM64GCC\bin\g++.exe -O3 -g -Wl,--whole-archive CMakeFiles\cubes.dir/objects.a -Wl,--no-whole-archive -o cubes.exe -Wl,--out-implib,libcubes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cubes.dir\linklibs.rsp
