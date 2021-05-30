@@ -1,3 +1,0 @@
-C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/build/CMakeFiles/texture.dir
-C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/build/CMakeFiles/edit_cache.dir
-C:/Users/zzb/Desktop/test/gl/tutorial_intro_texture/build/CMakeFiles/rebuild_cache.dir
