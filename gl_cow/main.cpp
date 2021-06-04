@@ -93,6 +93,10 @@ int main()
     glGenVertexArrays(1, &VAO);
     glGenBuffers(1, &VBO);
 
+    // print the ID
+    std::cout<<"VAO: "<<VAO<<std::endl;
+    std::cout<<"VBO: "<<VBO<<std::endl;
+
     glBindVertexArray(VAO);
     glBindBuffer(GL_ARRAY_BUFFER, VBO);
     glBufferData(GL_ARRAY_BUFFER, vertices_data.size()*sizeof(float), &vertices_data[0], GL_STATIC_DRAW);
