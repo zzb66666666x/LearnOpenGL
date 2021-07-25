@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/MyCode/Cpp/learnGL/sponza/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe   -g -o CMakeFiles\\sponza.dir\\main.cpp.obj -c D:\\MyCode\\Cpp\\learnGL\\sponza\\main.cpp",
+  "file": "D:/MyCode/Cpp/learnGL/sponza/main.cpp"
+},
+{
+  "directory": "D:/MyCode/Cpp/learnGL/sponza/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\gcc.exe   -g -o CMakeFiles\\sponza.dir\\glad.c.obj -c D:\\MyCode\\Cpp\\learnGL\\sponza\\glad.c",
+  "file": "D:/MyCode/Cpp/learnGL/sponza/glad.c"
+}
+]

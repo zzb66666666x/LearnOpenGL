@@ -269,6 +269,7 @@ void scroll_callback(GLFWwindow* window, double xoffset, double yoffset)
 int load_vertices(std::vector<float> & vertices){
     objl::Loader Loader;
     int ret =0;
+    int num_triangles = 0;
     bool loadout = Loader.LoadFile("../resources/spot/spot_triangulated_good.obj");
     for(auto mesh:Loader.LoadedMeshes)
     {
@@ -286,7 +287,9 @@ int load_vertices(std::vector<float> & vertices){
                 vertices.push_back(mesh.Vertices[i+j].TextureCoordinate.Y);
                 ret+=3;
             }
+            num_triangles ++;
         }
     }
+    std::cout<<"num triangles: "<<num_triangles<<std::endl;
     return ret;
 }

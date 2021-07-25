@@ -1,0 +1,5 @@
+D:/MyCode/Cpp/learnGL/sponza/build/CMakeFiles/sponza.dir
+D:/MyCode/Cpp/learnGL/sponza/build/CMakeFiles/package.dir
+D:/MyCode/Cpp/learnGL/sponza/build/CMakeFiles/package_source.dir
+D:/MyCode/Cpp/learnGL/sponza/build/CMakeFiles/edit_cache.dir
+D:/MyCode/Cpp/learnGL/sponza/build/CMakeFiles/rebuild_cache.dir
