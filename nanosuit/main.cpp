@@ -83,6 +83,7 @@ int main()
     // -----------
     Model ourModel("../resources/nanosuit.obj");
 
+    ourModel.report();
     
     // draw in wireframe
     //glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);

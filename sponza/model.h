@@ -46,20 +46,6 @@ public:
         for(unsigned int i = 0; i < meshes.size(); i++)
             meshes[i].Draw(shader);
     }
-
-    // report and print data about this model
-    void report()
-    {
-        cout<<"there are "<<meshes.size()<<" meshes"<<endl;
-        for (int i=0; i<meshes.size(); i++){
-            cout<<"for mesh #"<<i<<": "<<"there are "<<meshes[i].textures.size()<<" textures"<<endl;
-            for (int j=0; j<meshes[i].textures.size(); j++){
-                cout<<"\ttexture #"<<j<<": ";
-                cout<<"name{"<<meshes[i].textures[j].path<<"}\t";
-                cout<<"type{"<<meshes[i].textures[j].type<<"}\n";
-            }
-        }
-    }
     
 private:
     // loads a model with supported ASSIMP extensions from file and stores the resulting meshes in the meshes vector.

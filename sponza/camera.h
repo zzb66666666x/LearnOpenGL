@@ -1,8 +1,8 @@
 #ifndef CAMERA_H
 #define CAMERA_H
-#define GLM_FORCE_AVX2
-#define GLM_FORCE_INLINE 
-#include <glad/glad.h>
+
+#include "glad.h"
+#include "configs.h"
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 
