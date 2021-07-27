@@ -6,8 +6,8 @@ set(CMAKE_CXX_FLAGS "-O3")
 
 aux_source_directory(. SRC_LIST)
 
-add_executable(nanosuit ${SRC_LIST})
-target_link_libraries(nanosuit assimp)
-target_link_libraries(nanosuit opengl32)
-target_link_libraries(nanosuit glfw3)
-target_link_libraries(nanosuit gdi32)
+add_executable(sponza ${SRC_LIST})
+target_link_libraries(sponza assimp)
+target_link_libraries(sponza opengl32)
+target_link_libraries(sponza glfw3)
+target_link_libraries(sponza gdi32)

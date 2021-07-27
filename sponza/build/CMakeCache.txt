@@ -159,7 +159,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=sponza
+CMAKE_PROJECT_NAME:STATIC=nanosuit
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=0.1.0
@@ -331,6 +331,12 @@ SLURM_SRUN_COMMAND:FILEPATH=SLURM_SRUN_COMMAND-NOTFOUND
 
 //Path to a program.
 SVNCOMMAND:FILEPATH=SVNCOMMAND-NOTFOUND
+
+//Value Computed by CMake
+nanosuit_BINARY_DIR:STATIC=D:/MyCode/Cpp/learnGL/sponza/build
+
+//Value Computed by CMake
+nanosuit_SOURCE_DIR:STATIC=D:/MyCode/Cpp/learnGL/sponza
 
 //Value Computed by CMake
 sponza_BINARY_DIR:STATIC=D:/MyCode/Cpp/learnGL/sponza/build
