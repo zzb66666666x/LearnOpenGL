@@ -1,3 +1,0 @@
-D:/MyCode/Cpp/learnGL/nanosuit/build/CMakeFiles/nanosuit.dir
-D:/MyCode/Cpp/learnGL/nanosuit/build/CMakeFiles/edit_cache.dir
-D:/MyCode/Cpp/learnGL/nanosuit/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\nanosuit.dir/objects.a
-D:\MinGW\TDM64GCC\bin\ar.exe cr CMakeFiles\nanosuit.dir/objects.a @CMakeFiles\nanosuit.dir\objects1.rsp
-D:\MinGW\TDM64GCC\bin\g++.exe -O3 -Wl,--whole-archive CMakeFiles\nanosuit.dir/objects.a -Wl,--no-whole-archive -o nanosuit.exe -Wl,--out-implib,libnanosuit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nanosuit.dir\linklibs.rsp

@@ -1,3 +1,0 @@
-D:/MyCode/Cpp/learnGL/gl_cow/build/CMakeFiles/edit_cache.dir
-D:/MyCode/Cpp/learnGL/gl_cow/build/CMakeFiles/cow.dir
-D:/MyCode/Cpp/learnGL/gl_cow/build/CMakeFiles/rebuild_cache.dir

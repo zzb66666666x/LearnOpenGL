@@ -1,3 +1,0 @@
-D:/MyCode/Cpp/learnGL/tutorial_intro_texture/build/CMakeFiles/texture.dir
-D:/MyCode/Cpp/learnGL/tutorial_intro_texture/build/CMakeFiles/edit_cache.dir
-D:/MyCode/Cpp/learnGL/tutorial_intro_texture/build/CMakeFiles/rebuild_cache.dir

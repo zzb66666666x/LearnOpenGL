@@ -1,3 +1,0 @@
-D:/MyCode/Cpp/learnGL/shadow_mapping/build/CMakeFiles/shadow.dir
-D:/MyCode/Cpp/learnGL/shadow_mapping/build/CMakeFiles/edit_cache.dir
-D:/MyCode/Cpp/learnGL/shadow_mapping/build/CMakeFiles/rebuild_cache.dir
